@@ -1,0 +1,40 @@
+# M.N.N (Meraz, Nafia, Nahian) Hospital LTD.
+
+This is a hospital management user interface for managing, monitoring and controlling the system in a Hospital. This application is developed in mySQL, which mainly focuses on basic operations in a hospital like adding new patient information, and updating new information, assigning the doctor for patient. It features a familiar and well thought-out, an attractive online user interface, combined with strong searching Insertion and reporting capabilities. 
+Technologies used:
+Xampp, Sublime text, Visual Studio code
+
+
+Patient and Doctor Side features:
+
+1. Only admin has access to the system.
+
+2. Patients can book appointments with any doctor on the list.
+
+3. Admin can view/update/cancel already booked appointments if necessary.
+
+4. Doctors and patients’ information can be registered to the system.
+
+5. Manages rooms.
+
+6. Patients can choose whichever room they want according to their needs.
+
+7. Contact option.
+
+8. Seperate login and logout option.
+
+                    : : : LOGIN DETAILS : : :
+
+Login details for admin: 
+username: MNN_ADMIN
+password: 123456
+
+Instructructions to run:
+1. Download the project file.
+2. Copy the file and paste it in htdocs of the xampp folder.
+3. Rename the entire folder as 'HMS1'.
+4. Create a database naming project.sql.
+4. Import the database in xampp.
+5. Run the database.
+6. Access localhost from the browser.
+7.Go to the link : http://localhost/HMS1/
